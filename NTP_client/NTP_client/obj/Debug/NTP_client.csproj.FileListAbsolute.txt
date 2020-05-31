@@ -1,0 +1,7 @@
+C:\Users\37544\source\repos\4_sem\NTP_client\NTP_client\bin\Debug\NTP_client.exe.config
+C:\Users\37544\source\repos\4_sem\NTP_client\NTP_client\bin\Debug\NTP_client.exe
+C:\Users\37544\source\repos\4_sem\NTP_client\NTP_client\bin\Debug\NTP_client.pdb
+C:\Users\37544\source\repos\4_sem\NTP_client\NTP_client\obj\Debug\NTP_client.csprojAssemblyReference.cache
+C:\Users\37544\source\repos\4_sem\NTP_client\NTP_client\obj\Debug\NTP_client.csproj.CoreCompileInputs.cache
+C:\Users\37544\source\repos\4_sem\NTP_client\NTP_client\obj\Debug\NTP_client.exe
+C:\Users\37544\source\repos\4_sem\NTP_client\NTP_client\obj\Debug\NTP_client.pdb

@@ -1,0 +1,7 @@
+C:\Users\37544\source\repos\4_sem\NTP_server\NTP_server\obj\Debug\NTP_server.csprojAssemblyReference.cache
+C:\Users\37544\source\repos\4_sem\NTP_server\NTP_server\obj\Debug\NTP_server.csproj.CoreCompileInputs.cache
+C:\Users\37544\source\repos\4_sem\NTP_server\NTP_server\bin\Debug\NTP_server.exe.config
+C:\Users\37544\source\repos\4_sem\NTP_server\NTP_server\bin\Debug\NTP_server.exe
+C:\Users\37544\source\repos\4_sem\NTP_server\NTP_server\bin\Debug\NTP_server.pdb
+C:\Users\37544\source\repos\4_sem\NTP_server\NTP_server\obj\Debug\NTP_server.exe
+C:\Users\37544\source\repos\4_sem\NTP_server\NTP_server\obj\Debug\NTP_server.pdb
